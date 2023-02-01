@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/app-list-four/static/css/main.3badbbf4.css",
+    "main.js": "/app-list-four/static/js/main.dfac0521.js",
+    "static/media/origami-yellow.png": "/app-list-four/static/media/origami-yellow.ea74a361c74d06aa43ce.png",
+    "index.html": "/app-list-four/index.html",
+    "main.3badbbf4.css.map": "/app-list-four/static/css/main.3badbbf4.css.map",
+    "main.dfac0521.js.map": "/app-list-four/static/js/main.dfac0521.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3badbbf4.css",
+    "static/js/main.dfac0521.js"
+  ]
+}
